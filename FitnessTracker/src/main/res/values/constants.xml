@@ -1,0 +1,7 @@
+<resources>
+    <!-- Sets the maximum time to wait for an input stream read to complete before giving up. -->
+    <integer name="readTimeout">15000</integer>
+
+    <!-- Sets the maximum time in milliseconds to wait while connecting to a server. -->
+    <integer name="connectTimeout">15000</integer>
+</resources>
